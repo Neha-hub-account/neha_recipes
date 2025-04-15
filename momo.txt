@@ -1,0 +1,6 @@
+IngredientName,Quantity,UOM
+Cabbage,2,cup
+Tomatoes,5,each
+Paneer,1,packet
+Ghee,2,tbsp
+Salt,1,tsp 
